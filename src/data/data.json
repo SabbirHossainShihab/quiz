@@ -1,0 +1,91 @@
+{
+  "Header": {
+    "title": "QUIZ COMPETITION",
+    "paragraph": "Facebook and Youtube in our daily life"
+  },
+  "Schedule": [
+    {
+      "date": "14 JANUARY",
+      "name": "REGISTRATION DEADLINE",
+      "text": "4:00 PM"
+    },
+    {
+      "date": "15 JANUARY",
+      "name": "QUIZ CONTEST",
+      "text": "11:59:59 PM"
+    },
+    {
+      "date": "16 JANUARY",
+      "name": "PRIZE CEREMONY",
+      "text": "11:00 AM-11:45 AM."
+    },
+    {
+      "date": "17 JANUARY",
+      "name": "SHORT COURSE BREAKTHROUGH",
+      "text": "4:00 PM"
+    }
+  ],
+  "Prize": [
+    {
+      "prizenum": "1",
+      "position": "st",
+      "name": "BDT 6000/=",
+      "job": "Prize Money"
+    },
+    {
+      "prizenum": "2",
+      "position": "nd",
+      "name": "BDT 4000/=",
+      "job": "Prize Money"
+    },
+    {
+      "prizenum": "3",
+      "position": "rd",
+      "name": "BDT 3000/=",
+      "job": "Prize Money"
+    }
+  ],
+  "Contact": [
+    {
+      "person": "Contact Person",
+      "name": "Mohammad Mozammel Hoque, Senior Executive",
+      "address": "Dean's Office & CSE Department Eastern University",
+      "phone": "Tel: 09602666651, 09602666652, Ext: 112 Cellphone: 01716-479810",
+      "email": "mozammel@easternuni.edu.bd",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com"
+    },
+    {
+      "person": "Our Address",
+      "address": "Eastern University, Bangladesh. Road 6, Block B, Ashulia Model Town Dhaka-1345",
+      "phone": "Tel: 09602666651, 09602666652 Fax: +8802967 5981",
+      "email": "info@easternuni.edu.bd",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com"
+    }
+  ],
+  "QuizDetails": [
+    {
+      "title": "Topic",
+      "text": "Facebook and Youtube in our daily life"
+    },
+    {
+      "title": "Registration Deadline",
+      "text": "14 January 2021"
+    },
+    {
+      "title": "Contest Schedule",
+      "text": "15 January 2021, 11:00 am - 11:45 am"
+    },
+    {
+      "title": "Question Type",
+      "text": "MCQ"
+    },
+    {
+      "title": "Eligibility",
+      "text": "HSC/Diploma/Equivalent 2020 and 2021"
+    }
+  ]
+}
