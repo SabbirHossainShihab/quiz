@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SabbirHossainShihab.github.io/quiz/static/css/main.83b5dced.chunk.css",
+    "main.js": "/SabbirHossainShihab.github.io/quiz/static/js/main.5b872d3a.chunk.js",
+    "main.js.map": "/SabbirHossainShihab.github.io/quiz/static/js/main.5b872d3a.chunk.js.map",
+    "runtime-main.js": "/SabbirHossainShihab.github.io/quiz/static/js/runtime-main.076ebb51.js",
+    "runtime-main.js.map": "/SabbirHossainShihab.github.io/quiz/static/js/runtime-main.076ebb51.js.map",
+    "static/js/2.2e70df19.chunk.js": "/SabbirHossainShihab.github.io/quiz/static/js/2.2e70df19.chunk.js",
+    "static/js/2.2e70df19.chunk.js.map": "/SabbirHossainShihab.github.io/quiz/static/js/2.2e70df19.chunk.js.map",
+    "index.html": "/SabbirHossainShihab.github.io/quiz/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/SabbirHossainShihab.github.io/quiz/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.2e70df19.chunk.js.LICENSE.txt": "/SabbirHossainShihab.github.io/quiz/static/js/2.2e70df19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.076ebb51.js",
+    "static/js/2.2e70df19.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.5b872d3a.chunk.js"
+  ]
+}
